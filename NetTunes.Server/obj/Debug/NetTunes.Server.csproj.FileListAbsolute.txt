@@ -1,0 +1,13 @@
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\bin\Debug\NetTunes.Server.exe.config
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\bin\Debug\NetTunes.Server.exe
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\bin\Debug\NetTunes.Server.pdb
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\bin\Debug\websocket-sharp.dll
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\bin\Debug\websocket-sharp.pdb
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.csproj.ResolveComReference.cache
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.csproj.CopyComplete
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.exe
+C:\Users\Awire\source\repos\NetTunes\NetTunes.Server\NetTunes.Server\obj\Debug\NetTunes.Server.pdb
